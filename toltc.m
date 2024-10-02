@@ -88,4 +88,5 @@ elseif nargout==2
 else
     varargout{1} = [vmin vnom vmax];
 end
-    
+
+% Copyright (c) 2024, Kerry S. Martin, martin@wild-wood.net

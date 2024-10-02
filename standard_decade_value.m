@@ -124,3 +124,4 @@ else
     value = table(idx_close)*(10^vexp);
 end
 
+% Copyright (c) 2024, Kerry S. Martin, martin@wild-wood.net

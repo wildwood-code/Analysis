@@ -27,3 +27,5 @@ if nargout==2
 else
     varargout{1} = v;
 end
+
+% Copyright (c) 2024, Kerry S. Martin, martin@wild-wood.net

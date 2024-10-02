@@ -5,3 +5,5 @@ function value = sdv(value, varargin)
 %   See also: STANDARD_DECADE_VALUE
 
 value = standard_decade_value(value, varargin{:});
+
+% Copyright (c) 2024, Kerry S. Martin, martin@wild-wood.net

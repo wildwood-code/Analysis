@@ -5,3 +5,5 @@ function x=to()
 %   Vin = [9 to 16]*Volt;
 
 x = [];
+
+% Copyright (c) 2024, Kerry S. Martin, martin@wild-wood.net

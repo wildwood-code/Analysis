@@ -16,3 +16,5 @@ if isscalar(val)
 elseif length(val)==3
     vnom = median(val);  % possibly [min nom max] format
 end
+
+% Copyright (c) 2024, Kerry S. Martin, martin@wild-wood.net
